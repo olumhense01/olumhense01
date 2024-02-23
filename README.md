@@ -10,7 +10,7 @@ I'm a front end developer with 4 years of experience in web development. I've wo
 * ✉️  You can contact me at [alfredolumhense@gmail.com](mailto:alfredolumhense@gmail.com)
 * 🧠  I'm learning React js
 * 🤝  I'm open to collaborating on Projects
-* worked on frontend projects for companies like 👇🏻
+* Built existing/current website/webapp for companies like 👇🏻
 * Buildbay ltd - https://www.mybuildbay.com/
 * BoundlessPay - https://www.boundlesspay.com/
 * etc 
